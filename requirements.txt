@@ -1,0 +1,7 @@
+Numpy
+streamlit
+scikit-learn
+
+
+### local packages -
+-e . 
